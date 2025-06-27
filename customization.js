@@ -20,7 +20,7 @@ module.exports = {
 ┗━━━━━━━━━━━━━━━
 ┏━━━━❮📝 ᴅᴇᴛᴇʟᴇꜱ 📝❯━━━
 ┃🗣️ 𝚄𝚜𝚎𝚛 : ${pushname}
-┃🤖 𝙱𝚘𝚝 : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ V${packageJson.version}
+┃🤖 𝙱𝚘𝚝 : © 𝚀𝚄𝙴𝙴𝙽 SACHI 𝗑ᴾᴿᴼ V${packageJson.version}
 ┃📜 𝙿𝚛𝚎𝚏𝚒𝚡 : ${config.PREFIX}
 ┃📚 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ${packageJson.version}
 ┃📝 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
